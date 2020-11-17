@@ -1,0 +1,2 @@
+#GITHUB FIRST TEST 1
+mean(c(1:100))
